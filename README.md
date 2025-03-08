@@ -17,7 +17,7 @@
 **BS in Data Science & Programming**  
 *Indian Institute of Technology, Madras*  
 2021 – Present | Chennai, India  
-**CGPA**: 8.52
+
 
 ### 📚 Relevant Courses:
 - Mathematics for Data Science
